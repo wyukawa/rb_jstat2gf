@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["wyukawa@gmail.com"]
   spec.summary       = %q{It is a Ruby clone of jstat2gf}
   spec.description   = %q{post jstat metrics to GrowthForecast}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/wyukawa/rb_jstat2gf"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
