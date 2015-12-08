@@ -1,0 +1,2 @@
+require 'rb_jstat2gf'
+RbJstat2gf.run
