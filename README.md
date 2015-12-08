@@ -1,6 +1,6 @@
-# RbJstat2gf
+# rb_jstat2gf
 
-TODO: Write a gem description
+It is a Ruby clone of jstat2gf(https://github.com/kazeburo/jstat2gf)
 
 ## Installation
 
@@ -24,7 +24,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/rb_jstat2gf/fork )
+1. Fork it ( https://github.com/wyukawa/rb_jstat2gf/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
