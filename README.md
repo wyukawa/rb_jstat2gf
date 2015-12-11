@@ -4,23 +4,18 @@ It is a Ruby clone of jstat2gf(https://github.com/kazeburo/jstat2gf)
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'rb_jstat2gf'
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install rb_jstat2gf
+$ gem install rb_jstat2gf
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+$ rb_jstat2gf --url=your.gf.host.name --port=5125 --service=aaa --section=hive --prefix=hs2 --pid=$(pgrep -of HiveServer2)
+```
+
+## Requirements
+* Java 8
 
 ## Contributing
 
